@@ -3,6 +3,8 @@
 ## Overview
 This project is a **Qt-based GUI application** that utilizes **OpenCV** to load, display, and manipulate images. The application provides functionalities for image navigation, zooming, and interaction through mouse and keyboard events. It integrates **perspective transformations** and **image comparison metrics (IOA & IOU)** for advanced processing.
 
+![APPLICATION VIEW](img.png)
+
 ## Features
 - **Qt GUI Interface**: Intuitive graphical interface for user interaction.
 - **Image Navigation**: Browse through images using a horizontal slider.
